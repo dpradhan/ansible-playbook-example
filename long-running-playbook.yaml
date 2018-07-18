@@ -1,0 +1,5 @@
+--
+- name: Demo long running playbook
+  hosts: all
+  tasks:
+    - script: long_running_script.sh
