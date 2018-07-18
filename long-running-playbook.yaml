@@ -1,4 +1,4 @@
---
+---
 - name: Demo long running playbook
   hosts: all
   tasks:
