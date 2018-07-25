@@ -1,2 +1,2 @@
-echo "sleeping 300 seconds"
+echo "sleeping 60 seconds"
 sleep 60
